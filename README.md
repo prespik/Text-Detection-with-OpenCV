@@ -1,2 +1,2 @@
 # Text-Detection-with-OpenCV
-Task1:To detect text in Image
+Detect text in Image and place bounding boxes around them.
